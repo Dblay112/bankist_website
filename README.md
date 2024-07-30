@@ -1,7 +1,7 @@
 Banking Website Project
 
 Overview
-This banking website was developed in collaboration with Jonas, as part of my studies on the Document Object Model (DOM), Arrays, and JavaScript fundamentals. This project showcases my understanding of these concepts and their practical application in building a functional web application.
+This banking website during the The Complete JavaScript Course 2024: From Zero to Expert! with Jonas Schmedtmann on Udemy, as part of my studies on the Document Object Model (DOM), Arrays, and JavaScript fundamentals. This project showcases understanding of these concepts and their practical application in building a functional web application.
 
 Key Features
 Interactive banking interface
